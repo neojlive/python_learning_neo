@@ -1,1 +1,1 @@
-# python_learning_neo
+# Repository for Python Training (python for testing)
